@@ -1,266 +1,157 @@
 # SIX460 👋
 
-::: {align="center"}
-## Backend Engineer • Full-Stack Developer • Cloud Infrastructure
+<div align="center">
 
-Building scalable applications, high-performance APIs, and modern
-infrastructure systems.
-:::
+# Backend Engineer
+## System Architecture • Cloud Infrastructure • Full-Stack Development
 
-------------------------------------------------------------------------
+Building scalable systems, high performance APIs, and modern infrastructure.
 
-## 👨‍💻 About Me
+</div>
 
-Hi, I'm **SIX460**.
+---
 
-I focus on building reliable and scalable software systems with modern
-backend technologies.
+## About Me
 
-My main interests:
+Hi, I'm SIX460.
 
--   Backend architecture
--   High-performance API development
--   Distributed systems
--   Cloud infrastructure
--   Storage systems
--   Video streaming architecture
--   Database optimization
--   Developer tooling
+I focus on backend engineering, distributed systems, cloud infrastructure,
+database optimization, and scalable application architecture.
 
-I enjoy designing systems that are:
+## Engineering Focus
 
--   Fast
--   Scalable
--   Maintainable
--   Production-ready
+- Backend Architecture
+- High Performance APIs
+- Database Optimization
+- Distributed Systems
+- Streaming Infrastructure
+- Cloud Deployment
+- Developer Tools
 
-------------------------------------------------------------------------
+## Tech Stack
 
-# 🛠 Tech Stack
+### Backend
+- Go
+- TypeScript
+- Node.js
+- ElysiaJS
+- PostgreSQL
+- Redis
 
-## Languages
+### Frontend
+- Next.js
+- React
+- Astro
+- Tailwind CSS
 
-![Go](https://skillicons.dev/icons?i=go)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=py)
-![PHP](https://skillicons.dev/icons?i=php)
+### Infrastructure
+- Docker
+- Linux
+- Cloudflare
+- Nginx
+- S3 Compatible Storage
 
-------------------------------------------------------------------------
+---
 
-## Backend Development
+# Featured Projects
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+## 🎬 Streaming Core Platform
 
-Experience with:
+High performance video streaming infrastructure.
 
--   REST API
--   GraphQL
--   WebSocket
--   Authentication systems
--   Background workers
--   Queue systems
--   API optimization
+Architecture:
 
-------------------------------------------------------------------------
-
-## Frontend Development
-
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![React](https://skillicons.dev/icons?i=react)
-![Astro](https://skillicons.dev/icons?i=astro)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-Frontend focus:
-
--   Server-side rendering
--   Performance optimization
--   Component architecture
--   Responsive UI
--   Modern design systems
-
-------------------------------------------------------------------------
-
-# 🗄 Database & Storage
-
-## Databases
-
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
-
-Experience:
-
--   Database optimization
--   Query optimization
--   Index design
--   Connection pooling
--   Caching strategy
-
-------------------------------------------------------------------------
-
-## Storage Infrastructure
-
-Working with:
-
--   S3 Compatible Storage
--   Cloudflare R2
--   Object Storage
--   CDN Architecture
--   Large file management
--   Media processing pipeline
-
-------------------------------------------------------------------------
-
-# ☁️ Infrastructure
-
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
-![Nginx](https://skillicons.dev/icons?i=nginx)
-
-Experience:
-
--   Linux server management
--   Docker deployment
--   Reverse proxy
--   CDN configuration
--   Security configuration
--   Performance tuning
-
-------------------------------------------------------------------------
-
-# 🚀 Featured Projects
-
-## 🎬 Streaming Platform
-
-A scalable video streaming infrastructure.
-
-Features:
-
--   Video processing pipeline
--   HLS streaming
--   Multiple quality support
--   Storage integration
--   CDN delivery
--   Worker-based processing
+```
+User
+ |
+CDN
+ |
+Streaming API
+ |
+Worker Queue
+ |
+FFmpeg Processing
+ |
+Storage
+```
 
 Technology:
 
-    Go
-    PostgreSQL
-    Redis
-    FFmpeg
-    Docker
-    S3 Storage
-    HLS
+```
+Go
+PostgreSQL
+Redis
+FFmpeg
+Docker
+HLS
+S3
+```
 
-------------------------------------------------------------------------
+---
 
-## ⚡ High Performance API Platform
+## ⚡ API Platform
 
-Modern backend services designed for speed and scalability.
+Modern backend services focused on scalability.
 
 Features:
 
--   REST API
--   Authentication
--   Database optimization
--   Cache layer
--   Background jobs
--   Real-time communication
+- REST API
+- Authentication
+- Cache layer
+- Database optimization
+- Background jobs
 
 Technology:
 
-    Go
-    TypeScript
-    PostgreSQL
-    Redis
-    Docker
+```
+Go
+TypeScript
+PostgreSQL
+Redis
+Docker
+```
 
-------------------------------------------------------------------------
+---
 
-## 🖥 Developer Tools
+## ☁️ Storage Gateway
 
-Building tools and automation systems:
+S3 compatible storage management system.
 
--   CLI tools
--   Server utilities
--   Deployment scripts
--   Monitoring tools
--   Automation workflows
+Features:
 
-------------------------------------------------------------------------
+- Multipart upload
+- Object management
+- CDN integration
+- Access control
 
-# 🏗 Engineering Interests
+---
 
-## Backend Architecture
+# System Architecture
 
-Interested in:
+See:
 
--   Clean architecture
--   Service-oriented design
--   Event-driven systems
--   Distributed processing
--   High availability systems
+`assets/architecture.png`
 
-------------------------------------------------------------------------
+---
 
-## Performance Optimization
+# Screenshots
 
-Focus areas:
+Add real system screenshots:
 
--   Faster API response
--   Database efficiency
--   Memory optimization
--   Server resource usage
--   CDN performance
+- Dashboard
+- API Monitor
+- Streaming Player
+- Infrastructure
 
-------------------------------------------------------------------------
+---
 
-# 📊 GitHub Statistics
+# GitHub Stats
 
-::: {align="center"}
-![SIX460 GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=SIX460&show_icons=true&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=SIX460&show_icons=true&theme=github_dark)
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIX460&layout=compact&theme=github_dark)
-:::
+---
 
-------------------------------------------------------------------------
-
-# 📈 Activity Graph
-
-![SIX460
-Activity](https://github-readme-activity-graph.vercel.app/graph?username=SIX460&theme=github-dark)
-
-------------------------------------------------------------------------
-
-# 📌 Current Goals
-
--   Build scalable backend systems
--   Improve cloud architecture skills
--   Create open-source tools
--   Share engineering knowledge
--   Build reliable infrastructure
-
-------------------------------------------------------------------------
-
-# 🤝 Connect
+# Contact
 
 GitHub:
-
 https://github.com/SIX460
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-### SIX460
-
-**Building systems. Improving performance. Creating technology.**
-:::
