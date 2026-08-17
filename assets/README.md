@@ -1,4 +1,7 @@
-Place your banner.png, architecture diagrams and screenshots here.
+<div align="center">
 
-Recommended:
-banner.png 1280x400
+<img src="./assets/banner.png" width="100%">
+
+</div>
+
+<br>
