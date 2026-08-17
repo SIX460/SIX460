@@ -113,9 +113,9 @@ Cloudflare
 
 ## Screenshots
 
-<img src="./assets/screenshots/dashboard.png" width="100%">
+<img src="./assets/dashboard.png" width="100%">
 
-<img src="./assets/screenshots/api-monitor.png" width="100%">
+<img src="./assets/api-monitor.png" width="100%">
 
 ---
 
