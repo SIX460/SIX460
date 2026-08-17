@@ -1,161 +1,172 @@
-<div align="center">
+::: {align="center"}
+`<img src="./assets/banner.png" width="100%">`{=html}
 
-<img src="./assets/banner.png" width="100%">
+# SIX460
 
+Backend Engineer
 
-# SIX460 👋
+Go • TypeScript • PostgreSQL • Docker • Cloud
+:::
 
+------------------------------------------------------------------------
 
-# Backend Engineer
-## System Architecture • Cloud Infrastructure • Full-Stack Development
+## About
 
-Building scalable systems, high performance APIs, and modern infrastructure.
+I'm a backend developer focused on building web services, APIs, and
+infrastructure systems.
 
-</div>
+Most of my work is around:
 
----
+-   Backend services
+-   API development
+-   Database design
+-   Media processing
+-   Storage systems
+-   Server deployment
 
-## About Me
+------------------------------------------------------------------------
 
-Hi, I'm SIX460.
-
-I focus on backend engineering, distributed systems, cloud infrastructure,
-database optimization, and scalable application architecture.
-
-## Engineering Focus
-
-- Backend Architecture
-- High Performance APIs
-- Database Optimization
-- Distributed Systems
-- Streaming Infrastructure
-- Cloud Deployment
-- Developer Tools
-
-## Tech Stack
+## What I Build
 
 ### Backend
-- Go
-- TypeScript
-- Node.js
-- ElysiaJS
-- PostgreSQL
-- Redis
 
-### Frontend
-- Next.js
-- React
-- Astro
-- Tailwind CSS
+-   REST API services
+-   Authentication systems
+-   Background workers
+-   Queue processing
+-   Database optimization
 
 ### Infrastructure
-- Docker
-- Linux
-- Cloudflare
-- Nginx
-- S3 Compatible Storage
 
----
+-   Linux servers
+-   Docker environments
+-   Reverse proxy
+-   CDN and storage integration
+-   Monitoring systems
 
-# Featured Projects
+### Media Systems
 
-## 🎬 Streaming Core Platform
+-   Video processing pipeline
+-   HLS workflow
+-   Storage management
+-   Streaming infrastructure
 
-High performance video streaming infrastructure.
+------------------------------------------------------------------------
+
+# Tech Stack
+
+`<img src="https://skillicons.dev/icons?i=go,ts,nodejs,postgres,redis,docker,linux,nextjs,cloudflare">`{=html}
+
+------------------------------------------------------------------------
+
+# Projects
+
+## Streaming Platform
+
+A video platform backend built around:
+
+-   API services
+-   Media processing
+-   Storage management
+-   Streaming delivery
+
+Stack:
+
+    Go
+    PostgreSQL
+    Redis
+    FFmpeg
+    Docker
+    HLS
 
 Architecture:
 
-```
-User
- |
-CDN
- |
-Streaming API
- |
-Worker Queue
- |
-FFmpeg Processing
- |
-Storage
-```
+    Client
 
-Technology:
+    ↓
 
-```
-Go
-PostgreSQL
-Redis
-FFmpeg
-Docker
-HLS
-S3
-```
+    API
 
----
+    ↓
 
-## ⚡ API Platform
+    Worker Queue
 
-Modern backend services focused on scalability.
+    ↓
 
-Features:
+    Media Processing
 
-- REST API
-- Authentication
-- Cache layer
-- Database optimization
-- Background jobs
+    ↓
 
-Technology:
+    Storage
 
-```
-Go
-TypeScript
-PostgreSQL
-Redis
-Docker
-```
+    ↓
 
----
+    CDN
 
-## ☁️ Storage Gateway
+------------------------------------------------------------------------
 
-S3 compatible storage management system.
+## API Service Platform
 
-Features:
+Backend services focusing on:
 
-- Multipart upload
-- Object management
-- CDN integration
-- Access control
+-   Clean API design
+-   Authentication
+-   Database performance
+-   Cache strategy
 
----
+Stack:
 
-# System Architecture
+    Go
+    TypeScript
+    PostgreSQL
+    Redis
 
-See:
+------------------------------------------------------------------------
 
-`assets/architecture.png`
+## Storage Gateway
 
----
+Tools for managing:
+
+-   Object storage
+-   Upload process
+-   File delivery
+-   CDN integration
+
+Stack:
+
+    Go
+    S3 API
+    Docker
+    Cloudflare
+
+------------------------------------------------------------------------
+
+# System Design
+
+`<img src="./assets/architecture.png" width="100%">`{=html}
+
+------------------------------------------------------------------------
 
 # Screenshots
 
-Add real system screenshots:
+`<img src="./assets/screenshots/dashboard.png" width="100%">`{=html}
 
-- Dashboard
-- API Monitor
-- Streaming Player
-- Infrastructure
+`<img src="./assets/screenshots/api-monitor.png" width="100%">`{=html}
 
----
+------------------------------------------------------------------------
 
 # GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SIX460&show_icons=true&theme=github_dark)
+::: {align="center"}
+`<img src="https://github-readme-stats.vercel.app/api?username=SIX460&show_icons=true&theme=github_dark&hide_border=true">`{=html}
 
----
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIX460&layout=compact&theme=github_dark&hide_border=true">`{=html}
+:::
+
+------------------------------------------------------------------------
 
 # Contact
 
 GitHub:
+
 https://github.com/SIX460
