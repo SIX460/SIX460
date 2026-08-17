@@ -1,16 +1,11 @@
-# SIX460 System Architecture
+# SIX460 Architecture
 
-Frontend:
-Next.js / Astro
-
-Backend:
-Go Services
-
-Database:
-PostgreSQL
-
-Cache:
-Redis
-
-Storage:
-S3 Compatible Storage
+Client
+|
+API
+|
+Services
+|
+Database / Cache
+|
+Storage / CDN

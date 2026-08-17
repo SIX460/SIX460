@@ -1,7 +1,11 @@
-<div align="center">
+Add your images here:
 
-<img src="./assets/banner.png" width="100%">
+banner.png
+architecture.png
 
-</div>
-
-<br>
+screenshots/
+- dashboard.png
+- api-monitor.png
+- streaming-player.png
+- storage.png
+- infrastructure.png

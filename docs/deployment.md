@@ -1,6 +1,6 @@
 # Deployment
 
-Recommended:
+Recommended stack:
 
 - Linux
 - Docker

@@ -1,10 +1,10 @@
 # API Platform
 
-Scalable backend API architecture.
+Backend API services.
 
-Features:
+Focus:
 
-- REST API
+- API design
 - Authentication
-- Redis cache
-- PostgreSQL optimization
+- Database optimization
+- Cache

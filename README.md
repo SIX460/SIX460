@@ -1,172 +1,137 @@
-::: {align="center"}
-`<img src="./assets/banner.png" width="100%">`{=html}
+<div align="center">
+
+<img src="./assets/banner.png" width="100%">
 
 # SIX460
 
 Backend Engineer
 
 Go • TypeScript • PostgreSQL • Docker • Cloud
-:::
 
-------------------------------------------------------------------------
+</div>
+
+---
 
 ## About
 
-I'm a backend developer focused on building web services, APIs, and
-infrastructure systems.
+I'm a backend developer focused on building web services,
+APIs, and infrastructure systems.
 
-Most of my work is around:
+My main work:
 
--   Backend services
--   API development
--   Database design
--   Media processing
--   Storage systems
--   Server deployment
+- Backend services
+- API development
+- Database design
+- Media processing
+- Storage systems
+- Server deployment
 
-------------------------------------------------------------------------
+---
 
-## What I Build
+## Tech Stack
 
-### Backend
+<img src="https://skillicons.dev/icons?i=go,ts,nodejs,nextjs,postgres,redis,docker,linux,cloudflare">
 
--   REST API services
--   Authentication systems
--   Background workers
--   Queue processing
--   Database optimization
+---
 
-### Infrastructure
+## Projects
 
--   Linux servers
--   Docker environments
--   Reverse proxy
--   CDN and storage integration
--   Monitoring systems
+### Streaming Platform
 
-### Media Systems
+Video platform backend focused on media processing and delivery.
 
--   Video processing pipeline
--   HLS workflow
--   Storage management
--   Streaming infrastructure
+Features:
 
-------------------------------------------------------------------------
-
-# Tech Stack
-
-`<img src="https://skillicons.dev/icons?i=go,ts,nodejs,postgres,redis,docker,linux,nextjs,cloudflare">`{=html}
-
-------------------------------------------------------------------------
-
-# Projects
-
-## Streaming Platform
-
-A video platform backend built around:
-
--   API services
--   Media processing
--   Storage management
--   Streaming delivery
+- HLS streaming
+- Media processing pipeline
+- Storage management
+- CDN delivery
+- Background workers
 
 Stack:
 
-    Go
-    PostgreSQL
-    Redis
-    FFmpeg
-    Docker
-    HLS
+```
+Go
+PostgreSQL
+Redis
+FFmpeg
+Docker
+HLS
+```
 
-Architecture:
+---
 
-    Client
+### API Platform
 
-    ↓
+Backend services designed for maintainable APIs.
 
-    API
+Features:
 
-    ↓
-
-    Worker Queue
-
-    ↓
-
-    Media Processing
-
-    ↓
-
-    Storage
-
-    ↓
-
-    CDN
-
-------------------------------------------------------------------------
-
-## API Service Platform
-
-Backend services focusing on:
-
--   Clean API design
--   Authentication
--   Database performance
--   Cache strategy
+- REST API
+- Authentication
+- Cache strategy
+- Database optimization
 
 Stack:
 
-    Go
-    TypeScript
-    PostgreSQL
-    Redis
+```
+Go
+TypeScript
+PostgreSQL
+Redis
+```
 
-------------------------------------------------------------------------
+---
 
-## Storage Gateway
+### Storage Gateway
 
-Tools for managing:
+Object storage management tools.
 
--   Object storage
--   Upload process
--   File delivery
--   CDN integration
+Features:
+
+- Upload workflow
+- File management
+- S3 compatible storage
+- CDN integration
 
 Stack:
 
-    Go
-    S3 API
-    Docker
-    Cloudflare
+```
+Go
+S3 API
+Docker
+Cloudflare
+```
 
-------------------------------------------------------------------------
+---
 
-# System Design
+## System Architecture
 
-`<img src="./assets/architecture.png" width="100%">`{=html}
+<img src="./assets/architecture.png" width="100%">
 
-------------------------------------------------------------------------
+---
 
-# Screenshots
+## Screenshots
 
-`<img src="./assets/screenshots/dashboard.png" width="100%">`{=html}
+<img src="./assets/screenshots/dashboard.png" width="100%">
 
-`<img src="./assets/screenshots/api-monitor.png" width="100%">`{=html}
+<img src="./assets/screenshots/api-monitor.png" width="100%">
 
-------------------------------------------------------------------------
+---
 
-# GitHub Stats
+## GitHub Stats
 
-::: {align="center"}
-`<img src="https://github-readme-stats.vercel.app/api?username=SIX460&show_icons=true&theme=github_dark&hide_border=true">`{=html}
+<div align="center">
 
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIX460&layout=compact&theme=github_dark&hide_border=true">`{=html}
-:::
+<img src="https://github-readme-stats.vercel.app/api?username=SIX460&show_icons=true&theme=github_dark&hide_border=true">
 
-------------------------------------------------------------------------
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIX460&layout=compact&theme=github_dark&hide_border=true">
 
-# Contact
+</div>
+
+---
+
+## Contact
 
 GitHub:
-
 https://github.com/SIX460

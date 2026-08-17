@@ -1,9 +1,9 @@
 # Storage Gateway
 
-Object storage management service.
+Storage management service.
 
-Features:
+Focus:
 
-- Multipart upload
-- S3 compatible API
-- CDN integration
+- Object storage
+- Upload handling
+- File delivery
