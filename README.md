@@ -1,6 +1,10 @@
+<div align="center">
+
+<img src="./assets/banner.png" width="100%">
+
+
 # SIX460 👋
 
-<div align="center">
 
 # Backend Engineer
 ## System Architecture • Cloud Infrastructure • Full-Stack Development
